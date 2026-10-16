@@ -1,16 +1,46 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**krisneyx/krisneyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌿 Привет, я Kris
 
-Here are some ideas to get you started:
+Frontend dev из Молдовы 🇲🇩  
+Делаю уютные интерфейсы и пет-проекты для души.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://img.shields.io/badge/STATUS-ONLINE-2ea043?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/PERSONAL_SPACE-111111?style=for-the-badge&labelColor=111111"/>
+<img src="https://img.shields.io/badge/FOCUS-CODE-2ea043?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/STYLE-DARK_FOREST-111111?style=for-the-badge&labelColor=111111"/>
+
+</div>
+
+<br>
+
+## 🌿 Всем привет!
+
+Рад видеть вас в моём профиле! 👋
+
+Тут я выкладываю свои **личные работы** — то, что делала не для коммерции, а **для души и удобства**.
+
+Если хотите — посмотрите исходники, оцените интерфейсы или попробуйте пару моих программ.
+
+<br>
+
+## 💡 Личная лаборатория
+
+Здесь собраны скрипты, тулзы для кастомизации, эксперименты с интерфейсами и уютные пет-проекты.
+
+Заглядывайте в репозитории — буду рада обратной связи, звёздочкам ⭐ и фидбеку!
+
+<br>
+
+<div align="center">
+
+### 📈 Активность
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=krisneyx&bg_color=00000000&color=2ea043&line=2ea043&point=ffffff&area=true&hide_border=true" width="95%"/>
+
+### 📊 Статистика
+
+<img src="https://github-readme-stats.vercel.app/api?username=krisneyx&show_icons=true&theme=dark&bg_color=00000000&title_color=2ea043&icon_color=2ea043&text_color=ffffff&hide_border=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisneyx&layout=compact&theme=dark&bg_color=00000000&title_color=2ea043&text_color=ffffff&hide_border=true" height="160"/>
+
+</div>
