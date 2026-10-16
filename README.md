@@ -36,7 +36,7 @@ Frontend dev из Молдовы 🇲🇩
 
 ### 📈 Активность
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=krisneyx&bg_color=00000000&color=2ea043&line=2ea043&point=ffffff&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=krisneyx&theme=github-compact&bg_color=00000000&hide_border=true" width="95%"/>
 
 ### 📊 Статистика
 
